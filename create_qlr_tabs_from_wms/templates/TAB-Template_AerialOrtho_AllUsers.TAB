@@ -1,0 +1,15 @@
+!table
+!version 750
+!charset WindowsLatin1
+
+Definition Table
+  File "XML-Template_AerialOrtho_AllUsers.xml"
+  Type "WMS"
+  CoordSys Earth Projection 1, 104
+ Charset "WindowsLatin1"
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = ""
+"\MapInfo\ParentTableID" = ""
+end_metadata
